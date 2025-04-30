@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\webdonemsonu\webdonemsonu\bin\Debug\net9.0\webdonemsonu.exe
+C:\Users\USER\source\repos\webdonemsonu\webdonemsonu\obj\Debug\net9.0\webdonemsonu.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\webdonemsonu\webdonemsonu\obj\Debug\net9.0\webdonemsonu.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\webdonemsonu\webdonemsonu\obj\Debug\net9.0\webdonemsonu.AssemblyInfo.cs
+C:\Users\USER\source\repos\webdonemsonu\webdonemsonu\obj\Debug\net9.0\webdonemsonu.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\webdonemsonu\webdonemsonu\obj\Debug\net9.0\webdonemsonu.MvcApplicationPartsAssemblyInfo.cache

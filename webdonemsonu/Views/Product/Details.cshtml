@@ -1,0 +1,51 @@
+﻿@using webdonemsonu.Models.ViewModels
+@using webdonemsonu.Services
+@model ProductVM
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="@_imageService.GetImageDisplay(Model.Image)"
+                 class="img-fluid rounded-3 shadow-lg"
+                 style="max-height: 500px; object-fit: cover;"
+                 onerror="this.src='/images/default-product.png'">
+        </div>
+        <div class="col-md-6">
+            <h1>@Model.Name</h1>
+            <h3 class="text-danger">@Model.Price.ToString("C")</h3>
+            <p class="mt-4 lead">@Model.Description</p>
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                <form asp-action="AddToCart" method="post">
+                    <input type="hidden" name="productId" value="@Model.Id">
+                    <div class="input-group mb-3" style="width: 150px;">
+                        <button class="btn btn-outline-secondary" type="button" onclick="decrement()">-</button>
+                        <input type="number" id="quantity" name="quantity" value="1" min="1" class="form-control text-center">
+                        <button class="btn btn-outline-secondary" type="button" onclick="increment()">+</button>
+                    </div>
+                    <button type="submit" class="btn btn-danger btn-lg">
+                        <i class="fas fa-shopping-cart"></i> Sepete Ekle
+                    </button>
+                </form>
+            }
+            else
+            {
+                <a asp-controller="Account" asp-action="Login" class="btn btn-primary btn-lg">
+                    <i class="fas fa-sign-in-alt"></i> Satın Almak İçin Giriş Yap
+                </a>
+            }
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function increment() {
+            document.getElementById('quantity').stepUp();
+        }
+        function decrement() {
+            document.getElementById('quantity').stepDown();
+        }
+    </script>
+}

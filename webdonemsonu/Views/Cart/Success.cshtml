@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Sipariş Başarılı";
+}
+
+<div class="container mt-5 text-center">
+    <h1 class="text-success">Siparişiniz Alındı!</h1>
+    <p class="mt-4">Teşekkür ederiz. Sipariş numaranız: <strong>@TempData["OrderNumber"]</strong></p>
+
+    <a asp-controller="Home" asp-action="Index" class="btn btn-primary mt-4">
+        Ana Sayfaya Dön
+    </a>
+</div>

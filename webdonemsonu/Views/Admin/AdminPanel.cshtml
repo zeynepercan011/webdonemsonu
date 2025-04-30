@@ -1,0 +1,75 @@
+﻿@model webdonemsonu.Models.ViewModels.AdminPanelVM
+@using webdonemsonu.Models
+@inject IImageService _imageService
+
+<div class="container mt-5">
+    <h2 class="text-purple mb-4">Admin Paneli</h2>
+
+    <!-- Yeni Ürün Ekleme Formu -->
+    <div class="card mb-4 p-4">
+        <h5>Yeni Ürün Ekle</h5>
+        <form asp-action="AddProduct" enctype="multipart/form-data" method="post">
+            <div class="row g-3">
+                <div class="col-md-6">
+                    <label asp-for="NewProduct.Name" class="form-label">Ürün Adı</label>
+                    <input asp-for="NewProduct.Name" class="form-control" placeholder="Ürün Adı" required />
+                </div>
+                <div class="col-md-6">
+                    <label asp-for="NewProduct.Description" class="form-label">Açıklama</label>
+                    <input asp-for="NewProduct.Description" class="form-control" placeholder="Açıklama" />
+                </div>
+                <div class="col-md-6">
+                    <label asp-for="NewProduct.Price" class="form-label">Fiyat (₺)</label>
+                    <input asp-for="NewProduct.Price" class="form-control" placeholder="Fiyat" step="0.01" required />
+                </div>
+                <div class="col-md-6">
+                    <label asp-for="NewProduct.CategoryId" class="form-label">Kategori</label>
+                    <select asp-for="NewProduct.CategoryId" class="form-select">
+                        @foreach (var cat in Model.Categories)
+                        {
+                            <option value="@cat.Id">@cat.Name</option>
+                        }
+                    </select>
+                </div>
+                <div class="col-md-12">
+                    <label class="form-label">Ürün Görseli</label>
+                    <input type="file" name="ImageFile" class="form-control" required />
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary w-100 mt-3">Ekle</button>
+        </form>
+    </div>
+
+    <!-- Ürün Listesi -->
+    <h5>Ürünler</h5>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Resim</th>
+                <th>Ad</th>
+                <th>Kategori</th>
+                <th>Fiyat</th>
+                <th>İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model.Products)
+            {
+                <tr>
+                    <td>
+                        <img src="@_imageService.GetImageDisplay(product.Image)" width="60" />
+                    </td>
+                    <td>@product.Name</td>
+                    <td>@product.Category?.Name</td>
+                    <td>@product.Price.ToString("C")</td>
+                    <td>
+                        <a asp-action="EditProduct" asp-route-id="@product.Id" class="btn btn-sm btn-outline-purple">Düzenle</a>
+                        <a asp-action="DeleteProduct" asp-route-id="@product.Id"
+                           class="btn btn-sm btn-outline-danger"
+                           onclick="return confirm('Bu ürünü silmek istediğinize emin misiniz?');">Sil</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

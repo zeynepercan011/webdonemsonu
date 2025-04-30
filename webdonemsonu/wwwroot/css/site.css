@@ -1,0 +1,113 @@
+:root {
+    --primary-color: #6a1b9a;
+    --secondary-color: #9c27b0;
+    --light-purple: #ce93d8;
+    --dark-purple: #4a148c;
+}
+
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+    margin-bottom: 60px;
+}
+footer {
+    background: linear-gradient(135deg, #6a1b9a, #9c27b0) !important;
+    color: white !important;
+    padding: 2rem 0 !important;
+    margin-top: 3rem !important;
+}
+
+.navbar {
+    background: linear-gradient(135deg, var(--dark-purple), var(--primary-color));
+    box-shadow: 0 4px 20px rgba(106, 27, 154, 0.3);
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+    .btn-primary:hover {
+        background-color: var(--dark-purple);
+        border-color: var(--dark-purple);
+    }
+.btn-outline-purple {
+    color: var(--primary-purple);
+    border-color: var(--primary-purple);
+}
+    .btn-outline-purple:hover {
+        background-color: var(--primary-purple);
+        color: white;
+    }
+.btn-purple:hover {
+    background-color: var(--dark-purple);
+    border-color: var(--dark-purple);
+}
+.btn-custom-white {
+    background-color: white;
+    color: black; /* ikon ve yazý rengi siyah olsun diye */
+    border: 1px solid #ccc; /* istersen kenar çizgisi */
+}
+
+    .btn-custom-white:hover {
+        background-color: #f8f9fa; /* hover efekti için hafif gri */
+    }
+
+
+/* Dolu Buton */
+.btn-purple {
+    background-color: var(--primary-purple);
+    border-color: var(--primary-purple);
+    color: white;
+}
+
+
+.card {
+    transition: transform 0.3s, box-shadow 0.3s;
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+    .card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 15px 30px rgba(106, 27, 154, 0.2);
+    }
+
+.hero-banner {
+    background: linear-gradient(rgba(74, 20, 140, 0.8), rgba(106, 27, 154, 0.8)), url('/images/hero-bg.jpg') no-repeat center center;
+    background-size: cover;
+    height: 70vh;
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+.form-floating > .form-control-plaintext::placeholder,
+.form-floating > .form-control::placeholder {
+    color: var(--bs-secondary-color);
+    text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder,
+.form-floating > .form-control:focus::placeholder {
+    text-align: start;
+}

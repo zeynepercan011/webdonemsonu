@@ -1,0 +1,55 @@
+﻿@model webdonemsonu.Models.Product
+@using webdonemsonu.Services
+@inject IImageService _imageService
+
+@{
+    ViewData["Title"] = "Ürünü Güncelle";
+    var categories = ViewBag.Categories as List<webdonemsonu.Models.Category>;
+}
+
+<div class="container mt-5">
+    <h2 class="text-purple">Ürün Güncelle</h2>
+    <form asp-action="EditProduct" method="post" enctype="multipart/form-data">
+        <input type="hidden" name="Id" value="@Model.Id" />
+
+        <div class="mb-3">
+            <label>Ürün Adı</label>
+            <input type="text" name="Name" class="form-control" value="@Model.Name" required />
+        </div>
+
+        <div class="mb-3">
+            <label>Açıklama</label>
+            <textarea name="Description" class="form-control">@Model.Description</textarea>
+        </div>
+
+        <div class="mb-3">
+            <label>Fiyat</label>
+            <input type="number" name="Price" step="0.01" class="form-control" value="@Model.Price" required />
+        </div>
+
+        <div class="mb-3">
+            <label>Kategori</label>
+            <select name="CategoryId" class="form-select">
+                @foreach (var cat in categories)
+                {
+                    <option value="@cat.Id" selected="@(Model.CategoryId == cat.Id)">
+                        @cat.Name
+                    </option>
+                }
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label>Mevcut Görsel</label><br />
+            <img src="@_imageService.GetImageDisplay(Model.Image)" width="150" />
+        </div>
+
+        <div class="mb-3">
+            <label>Yeni Görsel (isteğe bağlı)</label>
+            <input type="file" name="ImageFile" class="form-control" />
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100">Kaydet</button>
+        <a asp-action="AdminPanel" class="btn btn-outline-secondary">İptal</a>
+    </form>
+</div>

@@ -1,0 +1,66 @@
+﻿@using webdonemsonu.Models.ViewModels
+@model UserProfileVM
+
+<div class="container">
+    <!-- Kişisel Bilgiler -->
+    <div class="card mb-4">
+        <div class="card-header bg-purple text-black">
+            <h3>Profil Bilgileri</h3>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">Ad:</dt>
+                <dd class="col-sm-9">@Model.FirstName</dd>
+
+                <dt class="col-sm-3">Soyad:</dt>
+                <dd class="col-sm-9">@Model.LastName</dd>
+
+                <dt class="col-sm-3">Email:</dt>
+                <dd class="col-sm-9">@Model.Email</dd>
+            </dl>
+        </div>
+    </div>
+
+    <!-- Sipariş Geçmişi -->
+    <div class="card">
+        <div class="card-header bg-purple text-black">
+            <h3>Sipariş Geçmişi</h3>
+        </div>
+        <div class="card-body">
+            @if (Model.Orders.Any())
+            {
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Sipariş No</th>
+                            <th>Tarih</th>
+                            <th>Toplam</th>
+                            <th>Durum</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var order in Model.Orders)
+                        {
+                            <tr>
+                                <td>@order.Id</td>
+                                <td>@order.OrderDate.ToString("dd.MM.yyyy")</td>
+                                <td>@order.TotalPrice.ToString("C")</td>
+                                <td>
+                                    <span class="badge bg-@(order.Status == "Tamamlandı" ? "success" : "warning")">
+                                        @order.Status
+                                    </span>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <div class="alert alert-info">
+                    Henüz siparişiniz bulunmamaktadır.
+                </div>
+            }
+        </div>
+    </div>
+</div>

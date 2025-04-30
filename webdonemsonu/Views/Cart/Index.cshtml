@@ -1,0 +1,71 @@
+﻿@using webdonemsonu.Models.ViewModels
+@model CartVM
+
+<div class="container mt-5">
+    <h2 class="mb-4">Sepetim</h2>
+
+    @if (!Model.Items.Any())
+    {
+        <div class="alert alert-warning">
+            Sepetiniz boş. <a asp-controller="Home" asp-action="Index">Alışverişe devam et</a>
+        </div>
+    }
+    else
+    {
+        <div class="table-responsive">
+            <table class="table">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Ürün</th>
+                        <th>Fiyat</th>
+                        <th>Adet</th>
+                        <th>Toplam</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Items)
+                    {
+                        <tr>
+                            <td>
+                                <div class="d-flex align-items-center">
+                                    <img src="@item.ProductImageDisplay"
+                                         class="img-thumbnail me-3" style="width: 80px;" alt="@item.ProductName">
+                                    <span>@item.ProductName</span>
+                                </div>
+                            </td>
+                            <td>@item.UnitPrice.ToString("C")</td>
+                            <td>@item.Quantity</td>
+                            <td>@((item.UnitPrice * item.Quantity).ToString("C"))</td>
+                            <td>
+                                <form asp-action="RemoveItem" method="post">
+                                    <input type="hidden" name="productId" value="@item.ProductId">
+                                    <button type="submit" class="btn btn-sm btn-danger">
+                                        <i class="fas fa-trash"></i>
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+                <tfoot>
+                    <tr class="table-active">
+                        <td colspan="3" class="text-end"><strong>Toplam:</strong></td>
+                        <td colspan="2">@Model.TotalPrice.ToString("C")</td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+
+        <div class="text-end mt-4">
+            <a asp-controller="Home" asp-action="Index" class="btn btn-outline-secondary me-2">
+                <i class="fas fa-arrow-left"></i> Alışverişe Devam Et
+            </a>
+            <form asp-action="Checkout" method="post" class="d-inline">
+                <button type="submit" class="btn btn-success">
+                    <i class="fas fa-credit-card"></i> Ödeme Yap
+                </button>
+            </form>
+        </div>
+    }
+</div>
