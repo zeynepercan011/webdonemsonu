@@ -1,0 +1,31 @@
+@model webdonemsonu.Models.ViewModels.EditProfileVM
+
+@{
+    ViewData["Title"] = "Profili Düzenle";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Profili Düzenle</h2>
+
+    <form asp-action="EditProfile" method="post" class="card p-4 shadow-sm">
+        <div class="mb-3">
+            <label asp-for="FirstName" class="form-label">Ad</label>
+            <input asp-for="FirstName" class="form-control" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="LastName" class="form-label">Soyad</label>
+            <input asp-for="LastName" class="form-control" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label">Email</label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success">Kaydet</button>
+    </form>
+</div>

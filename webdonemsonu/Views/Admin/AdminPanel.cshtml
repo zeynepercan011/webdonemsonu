@@ -40,6 +40,18 @@
         </form>
     </div>
 
+    <form method="get" asp-action="AdminPanel" class="mb-3 d-flex">
+        <select name="categoryId" class="form-select me-2" style="width: 250px;">
+            <option value="">Tüm Kategoriler</option>
+            @foreach (var cat in Model.Categories)
+            {
+                 <option value="@cat.Id">@cat.Name</option>
+            }
+        </select>
+        <button type="submit" class="btn btn-outline-secondary">Filtrele</button>
+    </form>
+
+
     <!-- Ürün Listesi -->
     <h5>Ürünler</h5>
     <table class="table table-hover">
@@ -60,7 +72,8 @@
                         <img src="@_imageService.GetImageDisplay(product.Image)" width="60" />
                     </td>
                     <td>@product.Name</td>
-                    <td>@product.Category?.Name</td>
+                    <td>
+                         <span class="badge bg-info text-dark">@product.Category?.Name</span></td>
                     <td>@product.Price.ToString("C")</td>
                     <td>
                         <a asp-action="EditProduct" asp-route-id="@product.Id" class="btn btn-sm btn-outline-purple">Düzenle</a>
