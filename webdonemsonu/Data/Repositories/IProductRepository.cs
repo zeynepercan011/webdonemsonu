@@ -8,5 +8,6 @@ namespace webdonemsonu.Data.Repositories
 		Task<List<Product>> GetAllProductsAsync();
 		Task<Product?> GetProductByIdAsync(int id);
 		Task<List<Product>> GetProductsByCategoryAsync(int categoryId);
+		Task<List<Category>> GetAllCategoriesAsync();
 	}
 }

@@ -29,19 +29,24 @@ namespace webdonemsonu.Controllers
 
 		// Admin Paneli Ana Sayfası
 		[HttpGet]
-		public async Task<IActionResult> AdminPanel()
-		{
-			var products = await _context.Products.Include(p => p.Category).ToListAsync();
-			var categories = await _context.Categories.ToListAsync();
+	public async Task<IActionResult> AdminPanel(int? categoryId)
+{
+    var productsQuery = _context.Products.Include(p => p.Category).AsQueryable();
 
-			var model = new AdminPanelVM
-			{
-				Products = products,
-				Categories = categories
-			};
+    if (categoryId.HasValue)
+        productsQuery = productsQuery.Where(p => p.CategoryId == categoryId.Value);
 
-			return View(model); // Views/Admin/AdminPanel.cshtml
-		}
+    var products = await productsQuery.ToListAsync();
+    var categories = await _context.Categories.ToListAsync();
+
+    var model = new AdminPanelVM
+    {
+        Products = products,
+        Categories = categories
+    };
+
+    return View(model);
+}
 
 		// Yeni ürün ekleme
 		[HttpPost]

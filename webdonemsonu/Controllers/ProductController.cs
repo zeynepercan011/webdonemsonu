@@ -27,6 +27,25 @@ namespace webdonemsonu.Controllers
 		}
 
 		[HttpGet]
+public async Task<IActionResult> Index(int? categoryId)
+{
+    var products = await _productRepo.GetAllProductsAsync();
+
+    if (categoryId.HasValue)
+        products = products.Where(p => p.CategoryId == categoryId.Value).ToList();
+
+    var model = products.Select(p => new ProductVM
+    {
+        Id = p.Id,
+        Name = p.Name,
+        Price = p.Price,
+        Image = p.Image,
+        CategoryId = p.CategoryId,
+        CategoryName = p.Category?.Name
+    }).ToList();
+
+    return View(model);
+}
 		public async Task<IActionResult> Details(int id)
 		{
 			try

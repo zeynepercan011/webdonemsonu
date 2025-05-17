@@ -34,6 +34,11 @@ namespace webdonemsonu.Data.Repositories
 				.Where(p => p.CategoryId == categoryId)
 				.ToListAsync();
 		}
+		public async Task<List<Category>> GetAllCategoriesAsync()
+{
+    return await _context.Categories.ToListAsync();
+}
+
 	}
 	//Repositoryde veri tabanı ile direkt bağlantı kurulur. Sadece CRUD işlemleri yapılır.
 	//Service genelde repositoryi kullanarak CRUD dışı işlemler yapar.

@@ -117,6 +117,55 @@ namespace webdonemsonu.Controllers
 
 		[Authorize]
 		[HttpGet]
+		[Authorize]
+[HttpGet]
+public async Task<IActionResult> EditProfile()
+{
+    var user = await _userManager.GetUserAsync(User);
+    if (user == null)
+        return NotFound();
+
+    var model = new EditProfileVM
+    {
+        FirstName = user.FirstName,
+        LastName = user.LastName,
+        Email = user.Email
+    };
+
+    return View(model);
+}
+
+[Authorize]
+[HttpPost]
+[ValidateAntiForgeryToken]
+public async Task<IActionResult> EditProfile(EditProfileVM model)
+{
+    if (!ModelState.IsValid)
+        return View(model);
+
+    var user = await _userManager.GetUserAsync(User);
+    if (user == null)
+        return NotFound();
+
+    user.FirstName = model.FirstName;
+    user.LastName = model.LastName;
+    user.Email = model.Email;
+
+    var result = await _userManager.UpdateAsync(user);
+    if (result.Succeeded)
+    {
+        TempData["Success"] = "Profil güncellendi.";
+        return RedirectToAction("Profile"); // or wherever you want to go
+    }
+
+    foreach (var error in result.Errors)
+    {
+        ModelState.AddModelError("", error.Description);
+    }
+
+    return View(model);
+}
+
 		public async Task<IActionResult> Profile()
 		{
 			
