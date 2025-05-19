@@ -107,3 +107,4 @@ C:\Users\Amadeus\webdonemsonu\webdonemsonu\obj\Debug\net7.0\refint\webdonemsonu.
 C:\Users\Amadeus\webdonemsonu\webdonemsonu\obj\Debug\net7.0\webdonemsonu.pdb
 C:\Users\Amadeus\webdonemsonu\webdonemsonu\obj\Debug\net7.0\webdonemsonu.genruntimeconfig.cache
 C:\Users\Amadeus\webdonemsonu\webdonemsonu\obj\Debug\net7.0\ref\webdonemsonu.dll
+C:\Users\USER\source\repos\webdonemsonu\webdonemsonu\obj\Debug\net7.0\webdonemsonu.sourcelink.json

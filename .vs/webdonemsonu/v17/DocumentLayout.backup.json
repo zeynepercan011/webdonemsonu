@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\models\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\views\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -49,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\components\\cartitemcountviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\components\\cartitemcountviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,28 +123,8 @@
       "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\models\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\models\\viewmodels\\userprofilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\viewmodels\\userprofilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|solutionrelative:webdonemsonu\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC9B0B47-D102-4B27-8B34-56D1AB7F21E0}|webdonemsonu\\webdonemsonu.csproj|c:\\users\\user\\source\\repos\\webdonemsonu\\webdonemsonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -182,293 +194,97 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "webdonemsonu\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowD8AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:47:43.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdminPanel.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Admin\\AdminPanel.cshtml",
-              "RelativeDocumentMoniker": "webdonemsonu\\Views\\Admin\\AdminPanel.cshtml",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Admin\\AdminPanel.cshtml",
-              "RelativeToolTip": "webdonemsonu\\Views\\Admin\\AdminPanel.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T13:24:49.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminPanelVM.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\AdminPanelVM.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Models\\ViewModels\\AdminPanelVM.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\AdminPanelVM.cs",
-              "RelativeToolTip": "webdonemsonu\\Models\\ViewModels\\AdminPanelVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T13:47:13.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "webdonemsonu\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAqwEsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:26:57.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\CartController.cs",
-              "RelativeToolTip": "webdonemsonu\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T21:38:18.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "webdonemsonu\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T23:04:37.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EditProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Admin\\EditProduct.cshtml",
-              "RelativeDocumentMoniker": "webdonemsonu\\Views\\Admin\\EditProduct.cshtml",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Admin\\EditProduct.cshtml",
-              "RelativeToolTip": "webdonemsonu\\Views\\Admin\\EditProduct.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T13:28:35.381Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\appsettings.json",
+              "RelativeDocumentMoniker": "webdonemsonu\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\appsettings.json",
+              "RelativeToolTip": "webdonemsonu\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T18:06:45.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\Category.cs",
-              "RelativeToolTip": "webdonemsonu\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\CartItem.cs",
+              "RelativeToolTip": "webdonemsonu\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:15:55.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T12:16:11.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "webdonemsonu\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFcAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\CartController.cs",
+              "RelativeToolTip": "webdonemsonu\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T13:20:28.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T21:38:18.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Product\\Details.cshtml",
-              "RelativeDocumentMoniker": "webdonemsonu\\Views\\Product\\Details.cshtml",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Product\\Details.cshtml",
-              "RelativeToolTip": "webdonemsonu\\Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-28T21:53:53.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "webdonemsonu\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "webdonemsonu\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACwAAAAAAAAAAAAuwEIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T13:01:43.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CartItemCountViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Components\\CartItemCountViewComponent.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Components\\CartItemCountViewComponent.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Components\\CartItemCountViewComponent.cs",
-              "RelativeToolTip": "webdonemsonu\\Components\\CartItemCountViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:27:30.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "webdonemsonu\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T20:32:40.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Data\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "webdonemsonu\\Data\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:28:16.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Data\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "webdonemsonu\\Data\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T12:58:23.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Services\\CartService.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Services\\CartService.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Services\\CartService.cs",
-              "RelativeToolTip": "webdonemsonu\\Services\\CartService.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:31:45.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CartVM.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\CartVM.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Models\\ViewModels\\CartVM.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\CartVM.cs",
-              "RelativeToolTip": "webdonemsonu\\Models\\ViewModels\\CartVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T21:58:00.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Models\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "webdonemsonu\\Models\\ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:18:59.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\LoginVM.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Models\\ViewModels\\LoginVM.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\LoginVM.cs",
-              "RelativeToolTip": "webdonemsonu\\Models\\ViewModels\\LoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:18:50.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ICartService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Services\\ICartService.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Services\\ICartService.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Services\\ICartService.cs",
-              "RelativeToolTip": "webdonemsonu\\Services\\ICartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:31:09.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ProductVM.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\ProductVM.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Models\\ViewModels\\ProductVM.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\ProductVM.cs",
-              "RelativeToolTip": "webdonemsonu\\Models\\ViewModels\\ProductVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:18:45.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 0,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\RegisterVM.cs",
               "RelativeDocumentMoniker": "webdonemsonu\\Models\\ViewModels\\RegisterVM.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\RegisterVM.cs",
               "RelativeToolTip": "webdonemsonu\\Models\\ViewModels\\RegisterVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T12:18:42.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "webdonemsonu\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:05:37.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\Order.cs",
+              "RelativeToolTip": "webdonemsonu\\Models\\Order.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:38:41.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\Product.cs",
+              "RelativeToolTip": "webdonemsonu\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:15:13.122Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "webdonemsonu\\Models\\ApplicationUser.cs",
@@ -476,12 +292,263 @@
               "RelativeToolTip": "webdonemsonu\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:18:11.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T12:18:11.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "webdonemsonu\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:04:20.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\Category.cs",
+              "RelativeToolTip": "webdonemsonu\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:15:55.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "webdonemsonu\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAowIcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:26:57.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "webdonemsonu\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowD8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:47:43.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminPanelVM.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\AdminPanelVM.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Models\\ViewModels\\AdminPanelVM.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\AdminPanelVM.cs",
+              "RelativeToolTip": "webdonemsonu\\Models\\ViewModels\\AdminPanelVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:47:13.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "webdonemsonu\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:32:40.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Admin\\AdminPanel.cshtml",
+              "RelativeDocumentMoniker": "webdonemsonu\\Views\\Admin\\AdminPanel.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Admin\\AdminPanel.cshtml",
+              "RelativeToolTip": "webdonemsonu\\Views\\Admin\\AdminPanel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T13:24:49.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "webdonemsonu\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T23:04:37.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Admin\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "webdonemsonu\\Views\\Admin\\EditProduct.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Admin\\EditProduct.cshtml",
+              "RelativeToolTip": "webdonemsonu\\Views\\Admin\\EditProduct.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T13:28:35.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "webdonemsonu\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:20:28.562Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "webdonemsonu\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "webdonemsonu\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T21:53:53.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "webdonemsonu\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "webdonemsonu\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T13:01:43.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartItemCountViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Components\\CartItemCountViewComponent.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Components\\CartItemCountViewComponent.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Components\\CartItemCountViewComponent.cs",
+              "RelativeToolTip": "webdonemsonu\\Components\\CartItemCountViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:27:30.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "webdonemsonu\\Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:28:16.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Data\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "webdonemsonu\\Data\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:58:23.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Services\\CartService.cs",
+              "RelativeToolTip": "webdonemsonu\\Services\\CartService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:31:45.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartVM.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\CartVM.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Models\\ViewModels\\CartVM.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\CartVM.cs",
+              "RelativeToolTip": "webdonemsonu\\Models\\ViewModels\\CartVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:58:00.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Models\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "webdonemsonu\\Models\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:18:59.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Models\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "webdonemsonu\\Models\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:18:50.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Services\\ICartService.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Services\\ICartService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Services\\ICartService.cs",
+              "RelativeToolTip": "webdonemsonu\\Services\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:31:09.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "webdonemsonu\\Models\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "webdonemsonu\\Models\\ViewModels\\ProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:18:45.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "OrderVM.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\OrderVM.cs",
               "RelativeDocumentMoniker": "webdonemsonu\\Models\\ViewModels\\OrderVM.cs",
@@ -489,38 +556,11 @@
               "RelativeToolTip": "webdonemsonu\\Models\\ViewModels\\OrderVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T22:32:01.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T22:32:01.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\CartItem.cs",
-              "RelativeToolTip": "webdonemsonu\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:16:11.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\Product.cs",
-              "RelativeToolTip": "webdonemsonu\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:15:13.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "UserProfileVM.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\ViewModels\\UserProfileVM.cs",
               "RelativeDocumentMoniker": "webdonemsonu\\Models\\ViewModels\\UserProfileVM.cs",
@@ -528,25 +568,11 @@
               "RelativeToolTip": "webdonemsonu\\Models\\ViewModels\\UserProfileVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T20:32:15.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T20:32:15.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "webdonemsonu\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Models\\Order.cs",
-              "RelativeToolTip": "webdonemsonu\\Models\\Order.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAYwDgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T22:38:41.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Program.cs",
               "RelativeDocumentMoniker": "webdonemsonu\\Program.cs",
@@ -558,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Data\\Repositories\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "webdonemsonu\\Data\\Repositories\\IOrderRepository.cs",
@@ -570,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Success.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Cart\\Success.cshtml",
               "RelativeDocumentMoniker": "webdonemsonu\\Views\\Cart\\Success.cshtml",
@@ -582,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "webdonemsonu\\Views\\Shared\\_LoginPartial.cshtml",
@@ -594,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "webdonemsonu\\wwwroot\\css\\site.css",
@@ -606,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "webdonemsonu\\Views\\Account\\Register.cshtml",
@@ -618,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "20250428224833_Updated.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\webdonemsonu\\webdonemsonu\\Migrations\\20250428224833_Updated.cs",
               "RelativeDocumentMoniker": "webdonemsonu\\Migrations\\20250428224833_Updated.cs",

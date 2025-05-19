@@ -18,10 +18,12 @@ namespace webdonemsonu.Models.ViewModels
 		public string Email { get; set; }
 
 		[Required(ErrorMessage = "Şifre zorunludur.")]
-		[DataType(DataType.Password)]
 		[StringLength(100, ErrorMessage = "Şifre en az {2} karakter olmalıdır.", MinimumLength = 6)]
+		[RegularExpression(@"^(?=.*[A-Za-z])(?=.*\d).+$", ErrorMessage = "Şifre en az 1 harf ve 1 rakam içermelidir.")]
+		[DataType(DataType.Password)]
 		[Display(Name = "Şifre")]
 		public string Password { get; set; }
+
 
 		[DataType(DataType.Password)]
 		[Display(Name = "Şifre Tekrar")]
